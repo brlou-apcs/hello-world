@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I am required to type something here.
+Hello Sugar Labs. I am Brandon.
